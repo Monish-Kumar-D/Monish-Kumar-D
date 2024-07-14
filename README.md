@@ -15,10 +15,10 @@ I am a passionate Machine Learning engineer with a keen interest in developing i
 
 ### Education
 #### Bachelor of Technology in Metallurgical and Materials Engineering
-- **Institution**: natioanl Institute of Technology, Andhra Pradesh
+- **Institution**: Natioanl Institute of Technology, Andhra Pradesh
 - **Year of Graduation**: 2026
 #### Minor Degree in Computer Software Engineering
-- **Institution**: natioanl Institute of Technology, Andhra Pradesh
+- **Institution**: Natioanl Institute of Technology, Andhra Pradesh
 - **Year of Graduation**: 2026
 
 ### GitHub Stats
