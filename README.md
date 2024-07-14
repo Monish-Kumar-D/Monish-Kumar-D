@@ -2,7 +2,7 @@
 
 
 ### About Me
-I am a passionate Machine Learning engineer with a keen interest in developing innovative solutions. I love to explore new technologies and apply them in real-world scenarios. Currently, I am focusing on Pytorch, Deep Learning, Transformers, and LLMs.
+I am a passionate Machine Learning engineer with a keen interest in developing innovative solutions. I love to explore new technologies and apply them in real-world scenarios. Currently, I am focusing on Pytorch, Deep Learning, CNNs, and Computer Vision.
 
 - 👀 I’m interested in Software Development and Running Learning Algorithms
 - 🌱 I’m currently learning Computer Vision and Deep Learning 
