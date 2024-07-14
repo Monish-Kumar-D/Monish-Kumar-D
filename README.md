@@ -2,10 +2,10 @@
 - 👀 I’m interested in Software Development and Running Learning Algorithms
 - 🌱 I’m currently learning Computer Vision and Deep Learning 
 - 💞️ I’m looking to collaborate on Projects on Machine Learning and Web Development
-- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-kumar-d) 
+- 📫 How to reach me **[monishdharanilogan@gmail.com](mailto:monishdharanilogan@gmail.com)**
 - 😄 Pronouns: He/Him
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-kumar-d) 
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
