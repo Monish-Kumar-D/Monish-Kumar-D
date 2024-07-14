@@ -21,6 +21,9 @@ I am a passionate Machine Learning engineer with a keen interest in developing i
 - **Institution**: natioanl Institute of Technology, Andhra Pradesh
 - **Year of Graduation**: 2026
 
+### GitHub Stats
+![Monish Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monish-Kumar-D&show_icons=true&theme=radical)
+
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
