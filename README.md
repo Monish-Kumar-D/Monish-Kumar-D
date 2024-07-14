@@ -39,11 +39,11 @@ I am a passionate Machine Learning engineer with a keen interest in developing i
 
 ## My Stats :
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Monish-Kumar-D&show_icons=true&theme=dark)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Monish-Kumar-D&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Monish-Kumar-D&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-Kumar-D&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Monish-Kumar-D&theme=dark)
+
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
