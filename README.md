@@ -1,8 +1,22 @@
-## Hi 👋, I'm Monish Kumar
+<h1 align="center">Hi 👋, I'm Monish Kumar</h1>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<p align="center">
+  <a href="https://linkedin.com/in/monish-kumar-d">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/monish38">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/Intelligent_Cap_7387/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+</p>
+
+
 
 ### About Me
 I am a passionate Machine Learning engineer with a keen interest in developing innovative solutions. I love to explore new technologies and apply them in real-world scenarios. Currently, I am focusing on Pytorch, Deep Learning, CNNs, and Computer Vision.
@@ -13,8 +27,7 @@ I am a passionate Machine Learning engineer with a keen interest in developing i
 - 📫 How to reach me **[monishdharanilogan@gmail.com](mailto:monishdharanilogan@gmail.com)**
 - 😄 Pronouns: He/Him
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-kumar-d) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/monish38)
+
 
 ### Education
 #### Bachelor of Technology in Metallurgical and Materials Engineering
