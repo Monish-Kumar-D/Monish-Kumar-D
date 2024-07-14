@@ -1,5 +1,8 @@
 ## Hi 👋, I'm Monish Kumar
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ### About Me
 I am a passionate Machine Learning engineer with a keen interest in developing innovative solutions. I love to explore new technologies and apply them in real-world scenarios. Currently, I am focusing on Pytorch, Deep Learning, CNNs, and Computer Vision.
