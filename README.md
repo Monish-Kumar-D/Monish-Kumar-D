@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @Monish-Kumar-D
+## Hi 👋, I'm Monish Kumar
+
+
+### About Me
+I am a passionate Machine Learning engineer with a keen interest in developing innovative solutions. I love to explore new technologies and apply them in real-world scenarios. Currently, I am focusing on Pytorch, Deep Learning, Transformers, and LLMs.
+
 - 👀 I’m interested in Software Development and Running Learning Algorithms
 - 🌱 I’m currently learning Computer Vision and Deep Learning 
 - 💞️ I’m looking to collaborate on Projects on Machine Learning and Web Development
@@ -6,6 +11,16 @@
 - 😄 Pronouns: He/Him
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-kumar-d) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/monish38)
+
+### Education
+#### Bachelor of Technology in Metallurgical and Materials Engineering
+- **Institution**: natioanl Institute of Technology, Andhra Pradesh
+- **Year of Graduation**: 2026
+#### Minor Degree in Computer Software Engineering
+- **Institution**: natioanl Institute of Technology, Andhra Pradesh
+- **Year of Graduation**: 2026
+
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,9 +45,3 @@
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=rest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Concepts Known:
-- Object Oriented Programming
-- Data Structures and Algorithms
-- Database Management System
-- Advanced Machine Learning Algorithms
-- Deep Learning Neural Nets Architecture and Training 
