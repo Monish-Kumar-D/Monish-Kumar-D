@@ -50,18 +50,18 @@
 <h2 align="">My Stats</h2>
 
 <p align="center" style="display:grid; grid-template-columns: 1fr; gap: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monish-Kumar-D&theme=dark" alt="GitHub Streak" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Monish-Kumar-D&show_icons=true&theme=dark" alt="GitHub Stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monish-Kumar-D&theme=dark" alt="GitHub Streak" style="height:200px;"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Monish-Kumar-D&show_icons=true&theme=dark" alt="GitHub Stats" style="height:200px; " /> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Monish-Kumar-D&theme=onedark" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Monish-Kumar-D&row=2&column=4&theme=dark_lover&no-bg=true" alt="GitHub Trophies" style="height:200px;" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-Kumar-D&layout=compact&theme=dark" alt="Top Languages" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-Kumar-D&layout=compact&theme=dark" alt="Top Languages" style="height:200px;" /> 
 </p>
 
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="">Languages and Tools</h2>
 
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
