@@ -37,14 +37,14 @@
 
 <p align="">
   <strong>Bachelor of Technology in Metallurgical and Materials Engineering</strong><br>
-  National Institute of Technology, Andhra Pradesh<br>
-  Year of Graduation: 2026
+ - National Institute of Technology, Andhra Pradesh<br>
+ - Year of Graduation: 2026
 </p>
 
 <p align="">
   <strong>Minor Degree in Computer Software Engineering</strong><br>
-  National Institute of Technology, Andhra Pradesh<br>
-  Year of Graduation: 2026
+  -  National Institute of Technology, Andhra Pradesh<br>
+  -  Year of Graduation: 2026
 </p>
 
 <h2 align="">My Stats</h2>
