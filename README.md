@@ -50,12 +50,13 @@
 <h2 align="">My Stats</h2>
 
 <p align="center" style="display:grid; grid-template-columns: 1fr; gap: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monish-Kumar-D&theme=dark" alt="GitHub Streak" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=Monish-Kumar-D&show_icons=true&theme=dark" alt="GitHub Stats" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monish-Kumar-D&layout=compact&theme=dark" alt="Top Languages" /> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Monish-Kumar-D&theme=onedark" alt="GitHub Trophies" />
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monish-Kumar-D&theme=dark" alt="GitHub Streak" /> 
+  
 
 </p>
 
